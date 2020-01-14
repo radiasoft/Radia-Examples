@@ -6,3 +6,4 @@ visit the [Radia repository](https://github.com/ochubar/Radia) or the
 original
 [ESRF Radia webpage](https://www.esrf.eu/Accelerators/Groups/InsertionDevices/Software/Radia).
 
+[//]: # (Need to add information about how/where to use these examples.)
