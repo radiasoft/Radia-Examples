@@ -1,0 +1,678 @@
+# To run: 
+#  $ rsopt optimize configuration start_config.yml
+codes:
+    - python:
+        parameters:
+            corree_-x_0:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_-x_1:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_-x_2:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_-x_3:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_-x_4:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_-x_5:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_-x_6:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_-x_7:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_-x_8:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_+x_0:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_+x_1:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_+x_2:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_+x_3:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_+x_4:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_+x_5:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_+x_6:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_+x_7:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_+x_8:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_-z_0:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_-z_1:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_-z_2:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_-z_3:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_-z_4:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_-z_5:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_-z_6:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_-z_7:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_-z_8:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_+z_0:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_+z_1:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_+z_2:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_+z_3:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_+z_4:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_+z_5:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_+z_6:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_+z_7:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corree_+z_8:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-x_0:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-x_1:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-x_2:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-x_3:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-x_4:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-x_5:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-x_6:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-x_7:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-x_8:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-x_9:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-x_10:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-x_11:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-x_12:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-x_13:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-x_14:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-x_15:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-x_16:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-x_17:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-x_18:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-x_19:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-x_20:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-x_21:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-x_22:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-x_23:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-x_24:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-x_25:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-x_26:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-x_27:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-x_28:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-x_29:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-x_30:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-x_31:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+x_0:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+x_1:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+x_2:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+x_3:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+x_4:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+x_5:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+x_6:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+x_7:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+x_8:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+x_9:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+x_10:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+x_11:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+x_12:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+x_13:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+x_14:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+x_15:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+x_16:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+x_17:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+x_18:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+x_19:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+x_20:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+x_21:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+x_22:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+x_23:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+x_24:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+x_25:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+x_26:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+x_27:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+x_28:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+x_29:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+x_30:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+x_31:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-z_0:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-z_1:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-z_2:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-z_3:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-z_4:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-z_5:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-z_6:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-z_7:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-z_8:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-z_9:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-z_10:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-z_11:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-z_12:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-z_13:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-z_14:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-z_15:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-z_16:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-z_17:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-z_18:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-z_19:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-z_20:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-z_21:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-z_22:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-z_23:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-z_24:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-z_25:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-z_26:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-z_27:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-z_28:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-z_29:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-z_30:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_-z_31:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+z_0:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+z_1:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+z_2:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+z_3:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+z_4:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+z_5:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+z_6:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+z_7:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+z_8:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+z_9:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+z_10:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+z_11:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+z_12:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+z_13:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+z_14:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+z_15:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+z_16:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+z_17:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+z_18:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+z_19:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+z_20:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+z_21:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+z_22:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+z_23:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+z_24:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+z_25:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+z_26:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+z_27:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+z_28:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+z_29:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+z_30:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+            corr_+z_31:
+                min: -0.2
+                max: 0.2
+                start: 0.0
+        setup:
+            execution_type: serial
+            input_file: tessa.py
+            function: eval_f
+options:
+    software: dfols
+    method: dfols
+    record_interval: 5
+    components: 43
+    software_options: {'do_logging': False,
+                     'rhoend': 1e-5,
+                     'user_params': {'model.abs_tol': 1e-10,
+                                     'model.rel_tol': 1e-4
+                                    }
+                     }
+    exit_criteria:
+        sim_max: 300
