@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Radia_OptQuad.ipynb field-comparison output
+Bz*.txt
